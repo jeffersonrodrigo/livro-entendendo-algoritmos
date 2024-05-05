@@ -24,4 +24,5 @@ function buscaBinariaString($alvo, $array) {
   
   $array = ["maçã", "banana", "laranja", "morango", "melancia"];
   echo buscaBinariaString("laranja", $array) . "\n";
+  echo buscaBinariaString("melancia", $array) . "\n";
   
