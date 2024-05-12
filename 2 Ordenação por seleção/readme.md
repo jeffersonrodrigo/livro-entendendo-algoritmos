@@ -14,7 +14,7 @@ Neste capítulo, estudamos sobre as estruturas básicas de armazenamento na mem�
 - **Tipos de Acesso**: 
     Existem dois tipos de acesso: o **aleatório** e o **sequencial**. 
     - O sequencial significa ler os elementos, um por um, começando pelo primeiro.
-    - O aleatório permite que você pule diretamente para o décimo elemento. Muitos casos requerem o acesso aleatório, o que torna os arrays mais utilizados.
+    - O aleatório permite que você pule diretamente para o elemento desejado. Muitos casos requerem o acesso aleatório, o que torna os arrays mais utilizados.
 
 ## Algoritmo de Ordenação por Seleção
 
