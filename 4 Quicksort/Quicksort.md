@@ -15,5 +15,9 @@ O algoritmo DC não é um simples algoritmo que você aplica em um problema, **m
 
 4.3 Encontre o valor mais alto em uma lista.
 
-4.4 Você se lembra da pesquisa binária do Capítulo 1? Ela também é um
-algoritmo do tipo dividir para conquistar. Você consegue determinar o caso-base e o caso recursivo para a pesquisa binária?
+4.4 Você se lembra da pesquisa binária do Capítulo 1? Ela também é um algoritmo do tipo dividir para conquistar. Você consegue determinar o caso-base e o caso recursivo para a pesquisa binária?
+
+------
+
+Resposta: O caso-base para a pesquisa binária é um array com um item. Se oitem que você está procurando combina com o item presente no array, você o encontrou! Caso contrário, ele não está no array. No caso recursivo para a pesquisa binária, você divide o array pela metade, joga fora uma metade e executa uma pesquisa binária na outra metade.
+
